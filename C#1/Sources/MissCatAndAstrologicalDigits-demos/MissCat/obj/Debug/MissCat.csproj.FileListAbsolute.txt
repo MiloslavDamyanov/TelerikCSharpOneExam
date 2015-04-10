@@ -1,0 +1,9 @@
+C:\Users\academy\Desktop\Exams\MissCat\bin\Debug\MissCat.exe.config
+C:\Users\academy\Desktop\Exams\MissCat\obj\Debug\MissCat.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Exams\MissCat\bin\Debug\MissCat.exe
+C:\Users\academy\Desktop\Exams\MissCat\bin\Debug\MissCat.pdb
+C:\Users\academy\Desktop\Exams\MissCat\obj\Debug\MissCat.exe
+C:\Users\academy\Desktop\Exams\MissCat\obj\Debug\MissCat.pdb
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\MissCat\bin\Debug\MissCat.exe.config
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\MissCat\obj\Debug\MissCat.exe
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\MissCat\obj\Debug\MissCat.pdb

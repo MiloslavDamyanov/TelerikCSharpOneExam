@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CharVariable\bin\Debug\CharVariable.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CharVariable\bin\Debug\CharVariable.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CharVariable\bin\Debug\CharVariable.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CharVariable\obj\Debug\CharVariable.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CharVariable\obj\Debug\CharVariable.pdb

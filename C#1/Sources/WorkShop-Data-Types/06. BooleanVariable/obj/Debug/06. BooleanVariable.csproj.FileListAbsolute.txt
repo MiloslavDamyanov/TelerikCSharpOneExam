@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\06. BooleanVariable\bin\Debug\_06.BooleanVariable.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\06. BooleanVariable\bin\Debug\_06.BooleanVariable.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\06. BooleanVariable\bin\Debug\_06.BooleanVariable.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\06. BooleanVariable\obj\Debug\_06.BooleanVariable.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\06. BooleanVariable\obj\Debug\_06.BooleanVariable.pdb

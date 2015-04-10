@@ -1,0 +1,5 @@
+C:\Workshop\UKFlag\UKFlag\bin\Debug\UKFlag.exe.config
+C:\Workshop\UKFlag\UKFlag\bin\Debug\UKFlag.exe
+C:\Workshop\UKFlag\UKFlag\bin\Debug\UKFlag.pdb
+C:\Workshop\UKFlag\UKFlag\obj\Debug\UKFlag.exe
+C:\Workshop\UKFlag\UKFlag\obj\Debug\UKFlag.pdb

@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\07. TwoStrings\bin\Debug\_07.TwoStrings.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\07. TwoStrings\bin\Debug\_07.TwoStrings.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\07. TwoStrings\bin\Debug\_07.TwoStrings.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\07. TwoStrings\obj\Debug\_07.TwoStrings.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\07. TwoStrings\obj\Debug\_07.TwoStrings.pdb

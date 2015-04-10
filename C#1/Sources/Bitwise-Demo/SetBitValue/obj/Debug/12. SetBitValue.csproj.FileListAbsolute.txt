@@ -1,0 +1,5 @@
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\SetBitValue\bin\Debug\SetBitValue.exe.config
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\SetBitValue\bin\Debug\SetBitValue.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\SetBitValue\bin\Debug\SetBitValue.pdb
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\SetBitValue\obj\Debug\SetBitValue.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\SetBitValue\obj\Debug\SetBitValue.pdb

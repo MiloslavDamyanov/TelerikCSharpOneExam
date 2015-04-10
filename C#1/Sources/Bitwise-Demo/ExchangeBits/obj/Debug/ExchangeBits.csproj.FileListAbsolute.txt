@@ -1,0 +1,1 @@
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\bin\Debug\ExchangeBits.exe.config

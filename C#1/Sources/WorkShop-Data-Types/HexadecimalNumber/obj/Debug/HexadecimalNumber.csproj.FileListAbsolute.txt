@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\HexadecimalNumber\bin\Debug\HexadecimalNumber.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\HexadecimalNumber\bin\Debug\HexadecimalNumber.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\HexadecimalNumber\bin\Debug\HexadecimalNumber.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\HexadecimalNumber\obj\Debug\HexadecimalNumber.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\HexadecimalNumber\obj\Debug\HexadecimalNumber.pdb

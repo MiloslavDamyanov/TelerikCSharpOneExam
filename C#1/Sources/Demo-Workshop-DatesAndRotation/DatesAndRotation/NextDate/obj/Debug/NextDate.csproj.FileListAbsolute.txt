@@ -1,0 +1,6 @@
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\bin\Debug\NextDate.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\bin\Debug\NextDate.exe
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\bin\Debug\NextDate.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\obj\Debug\NextDate.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\obj\Debug\NextDate.exe
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\DatesAndRotation\NextDate\obj\Debug\NextDate.pdb

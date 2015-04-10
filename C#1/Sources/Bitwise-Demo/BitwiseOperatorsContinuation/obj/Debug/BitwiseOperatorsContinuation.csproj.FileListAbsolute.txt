@@ -1,0 +1,6 @@
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\bin\Debug\BitwiseOperatorsContinuation.exe.config
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\bin\Debug\BitwiseOperatorsContinuation.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\bin\Debug\BitwiseOperatorsContinuation.pdb
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\obj\Debug\BitwiseOperatorsContinuation.csprojResolveAssemblyReference.cache
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\obj\Debug\BitwiseOperatorsContinuation.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\BitwiseOperatorsContinuation\obj\Debug\BitwiseOperatorsContinuation.pdb

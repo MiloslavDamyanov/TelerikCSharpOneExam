@@ -1,0 +1,6 @@
+C:\Users\academy\Desktop\Workshop\ANacci\bin\Debug\ANacci.exe.config
+C:\Users\academy\Desktop\Workshop\ANacci\bin\Debug\ANacci.exe
+C:\Users\academy\Desktop\Workshop\ANacci\bin\Debug\ANacci.pdb
+C:\Users\academy\Desktop\Workshop\ANacci\obj\Debug\ANacci.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Workshop\ANacci\obj\Debug\ANacci.exe
+C:\Users\academy\Desktop\Workshop\ANacci\obj\Debug\ANacci.pdb

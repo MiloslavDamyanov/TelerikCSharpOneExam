@@ -1,0 +1,6 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\bin\Debug\NullableIntAndDouble.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\bin\Debug\NullableIntAndDouble.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\bin\Debug\NullableIntAndDouble.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\obj\Debug\NullableIntAndDouble.csprojResolveAssemblyReference.cache
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\obj\Debug\NullableIntAndDouble.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\NullableIntAndDouble\obj\Debug\NullableIntAndDouble.pdb

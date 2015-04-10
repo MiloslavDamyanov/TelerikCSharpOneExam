@@ -1,0 +1,5 @@
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\bin\Debug\ExchangeBits.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\bin\Debug\ExchangeBits.pdb
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\obj\Debug\ExchangeBits.exe
+c:\users\academy\documents\visual studio 2012\Projects\Solution1\ExchangeBits\obj\Debug\ExchangeBits.pdb

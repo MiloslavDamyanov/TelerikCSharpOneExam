@@ -1,0 +1,5 @@
+C:\Workshop\Logo\SpiralArray\bin\Debug\SpiralArray.exe.config
+C:\Workshop\Logo\SpiralArray\bin\Debug\SpiralArray.exe
+C:\Workshop\Logo\SpiralArray\bin\Debug\SpiralArray.pdb
+C:\Workshop\Logo\SpiralArray\obj\Debug\SpiralArray.exe
+C:\Workshop\Logo\SpiralArray\obj\Debug\SpiralArray.pdb

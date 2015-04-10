@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CopyRightSymbol\bin\Debug\CopyRightSymbol.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CopyRightSymbol\bin\Debug\CopyRightSymbol.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CopyRightSymbol\bin\Debug\CopyRightSymbol.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CopyRightSymbol\obj\Debug\CopyRightSymbol.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CopyRightSymbol\obj\Debug\CopyRightSymbol.pdb

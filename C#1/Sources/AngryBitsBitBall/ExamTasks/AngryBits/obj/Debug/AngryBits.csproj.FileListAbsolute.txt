@@ -1,0 +1,6 @@
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\bin\Debug\AngryBits.exe.config
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\bin\Debug\AngryBits.exe
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\bin\Debug\AngryBits.pdb
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\obj\Debug\AngryBits.csprojResolveAssemblyReference.cache
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\obj\Debug\AngryBits.exe
+C:\Users\EnikA\Desktop\ExamTasks\AngryBits\obj\Debug\AngryBits.pdb

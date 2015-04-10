@@ -1,0 +1,6 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\bin\Debug\ForumQuestion.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\bin\Debug\ForumQuestion.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\bin\Debug\ForumQuestion.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\obj\Debug\ForumQuestion.csprojResolveAssemblyReference.cache
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\obj\Debug\ForumQuestion.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\ForumQuestion\obj\Debug\ForumQuestion.pdb

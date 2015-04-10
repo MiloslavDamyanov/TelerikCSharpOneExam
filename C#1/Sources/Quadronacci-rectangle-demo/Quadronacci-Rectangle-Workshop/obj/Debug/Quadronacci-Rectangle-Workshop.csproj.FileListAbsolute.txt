@@ -1,0 +1,6 @@
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\bin\Debug\Quadronacci-Rectangle-Workshop.exe.config
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\bin\Debug\Quadronacci-Rectangle-Workshop.exe
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\bin\Debug\Quadronacci-Rectangle-Workshop.pdb
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\obj\Debug\Quadronacci-Rectangle-Workshop.csprojResolveAssemblyReference.cache
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\obj\Debug\Quadronacci-Rectangle-Workshop.exe
+C:\Users\academy\Desktop\Quadronacci-Rectangle-Workshop\Quadronacci-Rectangle-Workshop\obj\Debug\Quadronacci-Rectangle-Workshop.pdb

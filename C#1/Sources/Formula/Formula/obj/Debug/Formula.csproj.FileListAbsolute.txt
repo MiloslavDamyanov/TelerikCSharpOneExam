@@ -1,0 +1,6 @@
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\bin\Debug\Formula.exe.config
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\bin\Debug\Formula.exe
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\bin\Debug\Formula.pdb
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\obj\Debug\Formula.csprojResolveAssemblyReference.cache
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\obj\Debug\Formula.exe
+C:\Telerik\Training\4. C# Part 1 Workshop\6. Bits\Formula\Formula\obj\Debug\Formula.pdb

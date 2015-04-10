@@ -1,0 +1,6 @@
+C:\Workshop\SubsetSum2\SubsetSumBetter\bin\Debug\SubsetSumBetter.exe.config
+C:\Workshop\SubsetSum2\SubsetSumBetter\obj\Debug\SubsetSumBetter.csprojResolveAssemblyReference.cache
+C:\Workshop\SubsetSum2\SubsetSumBetter\bin\Debug\SubsetSumBetter.exe
+C:\Workshop\SubsetSum2\SubsetSumBetter\bin\Debug\SubsetSumBetter.pdb
+C:\Workshop\SubsetSum2\SubsetSumBetter\obj\Debug\SubsetSumBetter.exe
+C:\Workshop\SubsetSum2\SubsetSumBetter\obj\Debug\SubsetSumBetter.pdb

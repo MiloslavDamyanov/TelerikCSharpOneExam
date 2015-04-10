@@ -1,0 +1,6 @@
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe.config
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\bin\Debug\AstrologicalDigits.exe
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\bin\Debug\AstrologicalDigits.pdb
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\obj\Debug\AstrologicalDigits.csprojResolveAssemblyReference.cache
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\obj\Debug\AstrologicalDigits.exe
+C:\Telerik\Training\4. C# Part 1 Workshop\4. Loops\AstrologicalDigits\obj\Debug\AstrologicalDigits.pdb

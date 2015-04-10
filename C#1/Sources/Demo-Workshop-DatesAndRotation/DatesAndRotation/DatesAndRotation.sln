@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextDate", "NextDate\NextDate.csproj", "{FC41CC12-3868-41B8-A684-4D49B62BCD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleRotation", "TripleRotation\TripleRotation.csproj", "{8C3136C1-5347-4B39-872B-28992D0DF4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC41CC12-3868-41B8-A684-4D49B62BCD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC41CC12-3868-41B8-A684-4D49B62BCD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC41CC12-3868-41B8-A684-4D49B62BCD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC41CC12-3868-41B8-A684-4D49B62BCD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3136C1-5347-4B39-872B-28992D0DF4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3136C1-5347-4B39-872B-28992D0DF4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3136C1-5347-4B39-872B-28992D0DF4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3136C1-5347-4B39-872B-28992D0DF4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Workshop\Pillars\Pillars\bin\Debug\Pillars.exe.config
+C:\Workshop\Pillars\Pillars\bin\Debug\Pillars.exe
+C:\Workshop\Pillars\Pillars\bin\Debug\Pillars.pdb
+C:\Workshop\Pillars\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache
+C:\Workshop\Pillars\Pillars\obj\Debug\Pillars.exe
+C:\Workshop\Pillars\Pillars\obj\Debug\Pillars.pdb

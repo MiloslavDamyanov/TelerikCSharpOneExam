@@ -1,0 +1,5 @@
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\UpDownGame\UpDownGame\bin\Debug\UpDownGame.exe.config
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\UpDownGame\UpDownGame\bin\Debug\UpDownGame.exe
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\UpDownGame\UpDownGame\bin\Debug\UpDownGame.pdb
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\UpDownGame\UpDownGame\obj\Debug\UpDownGame.exe
+C:\Users\academy\Desktop\Workshop\If-else\Ivaylo\UpDownGame\UpDownGame\obj\Debug\UpDownGame.pdb

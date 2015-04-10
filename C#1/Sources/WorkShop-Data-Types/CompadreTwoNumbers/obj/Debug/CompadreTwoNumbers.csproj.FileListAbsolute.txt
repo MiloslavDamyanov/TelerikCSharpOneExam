@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CompadreTwoNumbers\bin\Debug\CompadreTwoNumbers.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CompadreTwoNumbers\bin\Debug\CompadreTwoNumbers.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CompadreTwoNumbers\bin\Debug\CompadreTwoNumbers.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CompadreTwoNumbers\obj\Debug\CompadreTwoNumbers.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\CompadreTwoNumbers\obj\Debug\CompadreTwoNumbers.pdb

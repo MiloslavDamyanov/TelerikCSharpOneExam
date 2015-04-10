@@ -1,0 +1,6 @@
+C:\Workshop\SubsetSum2\SubsetSum2\bin\Debug\SubsetSum2.exe.config
+C:\Workshop\SubsetSum2\SubsetSum2\bin\Debug\SubsetSum2.exe
+C:\Workshop\SubsetSum2\SubsetSum2\bin\Debug\SubsetSum2.pdb
+C:\Workshop\SubsetSum2\SubsetSum2\obj\Debug\SubsetSum2.csprojResolveAssemblyReference.cache
+C:\Workshop\SubsetSum2\SubsetSum2\obj\Debug\SubsetSum2.exe
+C:\Workshop\SubsetSum2\SubsetSum2\obj\Debug\SubsetSum2.pdb

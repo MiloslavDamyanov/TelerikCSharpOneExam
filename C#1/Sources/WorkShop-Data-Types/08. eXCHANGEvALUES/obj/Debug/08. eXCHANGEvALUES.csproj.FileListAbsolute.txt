@@ -1,0 +1,5 @@
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\08. eXCHANGEvALUES\bin\Debug\_08.eXCHANGEvALUES.exe.config
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\08. eXCHANGEvALUES\bin\Debug\_08.eXCHANGEvALUES.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\08. eXCHANGEvALUES\bin\Debug\_08.eXCHANGEvALUES.pdb
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\08. eXCHANGEvALUES\obj\Debug\_08.eXCHANGEvALUES.exe
+C:\Users\EvlogiHr\Desktop\Telerik\01.CSharp1\WorkShopDataTypes\08. eXCHANGEvALUES\obj\Debug\_08.eXCHANGEvALUES.pdb
